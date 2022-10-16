@@ -1,0 +1,1165 @@
+{
+      "Trip": [
+            {
+                  "ServiceDays": [
+                        {
+                              "planningPeriodBegin": "2022-07-17",
+                              "planningPeriodEnd": "2022-11-29",
+                              "sDaysR": "m\u00e5n - fre",
+                              "sDaysB": "7CF9F3E7CF9F3E7CF9F3E7CF9F3E7CF9F3"
+                        }
+                  ],
+                  "LegList": {
+                        "Leg": [
+                              {
+                                    "Origin": {
+                                          "name": "Tumba",
+                                          "type": "ST",
+                                          "id": "A=1@O=Tumba@X=17836423@Y=59199675@U=74@L=400105191@",
+                                          "extId": "400105191",
+                                          "lon": 17.836423,
+                                          "lat": 59.199675,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "07:50:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=Tumba (Botkyrka)@X=17836567@Y=59199199@U=74@L=300109524@",
+                                          "mainMastExtId": "300109524",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:02:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|15380|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 40",
+                                          "num": "2213",
+                                          "line": "40",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "101040"
+                                    },
+                                    "Stops": null,
+                                    "idx": "0",
+                                    "name": "Pendelt\u00e5g 40",
+                                    "number": "2213",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "S\u00f6dert\u00e4lje centrum"
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "time": "08:03:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646364@Y=59178973@U=74@L=400105226@",
+                                          "extId": "400105226",
+                                          "lon": 17.646364,
+                                          "lat": 59.178973,
+                                          "time": "08:04:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Stops": null,
+                                    "idx": "1",
+                                    "name": "",
+                                    "type": "WALK",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "duration": "PT1M",
+                                    "dist": 22,
+                                    "hide": true
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646364@Y=59178973@U=74@L=400105226@",
+                                          "extId": "400105226",
+                                          "lon": 17.646364,
+                                          "lat": 59.178973,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:07:00",
+                                          "date": "2022-10-17",
+                                          "track": "2",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "J\u00e4rna",
+                                          "type": "ST",
+                                          "id": "A=1@O=J\u00e4rna@X=17567160@Y=59093441@U=74@L=400105251@",
+                                          "extId": "400105251",
+                                          "lon": 17.56716,
+                                          "lat": 59.093441,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:16:00",
+                                          "date": "2022-10-17",
+                                          "track": "2",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=J\u00e4rna (S\u00f6dert\u00e4lje)@X=17567664@Y=59093009@U=74@L=300109542@",
+                                          "mainMastExtId": "300109542",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|18320|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 48",
+                                          "num": "52013",
+                                          "line": "48",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "100048"
+                                    },
+                                    "Stops": null,
+                                    "idx": "2",
+                                    "name": "Pendelt\u00e5g 48",
+                                    "number": "52013",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "Gnesta"
+                              }
+                        ]
+                  },
+                  "TariffResult": {
+                        "fareSetItem": [
+                              {
+                                    "fareItem": [
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Helt pris",
+                                                "price": 3900,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Helt pris",
+                                                "price": 5400,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Reducerat pris",
+                                                "price": 2600,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Reducerat pris",
+                                                "price": 3600,
+                                                "cur": "SEK"
+                                          }
+                                    ],
+                                    "name": "ONEWAY",
+                                    "desc": "SL"
+                              }
+                        ]
+                  },
+                  "alternative": false,
+                  "valid": true,
+                  "idx": 0,
+                  "tripId": "C-0",
+                  "ctxRecon": "T$A=1@O=Tumba@L=400105191@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$202210170750$202210170802$        $\u00a7W$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105226@a=128@$202210170803$202210170804$$\u00a7T$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105226@a=128@$A=1@O=J\u00e4rna@L=400105251@a=128@$202210170807$202210170816$        $",
+                  "duration": "PT26M",
+                  "return": false,
+                  "checksum": "02EF35A6_4",
+                  "transferCount": 0
+            },
+            {
+                  "ServiceDays": [
+                        {
+                              "planningPeriodBegin": "2022-07-17",
+                              "planningPeriodEnd": "2022-11-29",
+                              "sDaysR": "m\u00e5n - fre",
+                              "sDaysB": "0001F3E7CF9F3E3CF9F3E7CF9F3E7CF9F3"
+                        }
+                  ],
+                  "LegList": {
+                        "Leg": [
+                              {
+                                    "Origin": {
+                                          "name": "Tumba",
+                                          "type": "ST",
+                                          "id": "A=1@O=Tumba@X=17836423@Y=59199675@U=74@L=400105191@",
+                                          "extId": "400105191",
+                                          "lon": 17.836423,
+                                          "lat": 59.199675,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:05:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=Tumba (Botkyrka)@X=17836567@Y=59199199@U=74@L=300109524@",
+                                          "mainMastExtId": "300109524",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje centrum",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje centrum@X=17627289@Y=59192062@U=74@L=400105234@",
+                                          "extId": "400105234",
+                                          "lon": 17.627289,
+                                          "lat": 59.192062,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:24:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje centrum (S\u00f6dert\u00e4lje)@X=17627802@Y=59192062@U=74@L=300109520@",
+                                          "mainMastExtId": "300109520",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|16754|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 41",
+                                          "num": "2915",
+                                          "line": "41",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "101041"
+                                    },
+                                    "Stops": null,
+                                    "idx": "0",
+                                    "name": "Pendelt\u00e5g 41",
+                                    "number": "2915",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "S\u00f6dert\u00e4lje centrum"
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje centrum",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje centrum@X=17627289@Y=59192062@U=74@L=400105234@",
+                                          "extId": "400105234",
+                                          "lon": 17.627289,
+                                          "lat": 59.192062,
+                                          "time": "08:25:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje centrum (S\u00f6dert\u00e4lje)@X=17627802@Y=59192062@U=74@L=300109520@",
+                                          "mainMastExtId": "300109520",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje Centrum",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje Centrum@X=17627424@Y=59192071@U=74@L=510105231@",
+                                          "extId": "510105231",
+                                          "lon": 17.627424,
+                                          "lat": 59.192071,
+                                          "time": "08:26:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje centrum (S\u00f6dert\u00e4lje)@X=17627802@Y=59192062@U=74@L=300109520@",
+                                          "mainMastExtId": "300109520",
+                                          "additional": false
+                                    },
+                                    "Stops": null,
+                                    "idx": "1",
+                                    "name": "",
+                                    "type": "WALK",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "duration": "PT1M",
+                                    "dist": 8,
+                                    "hide": true
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje Centrum",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje Centrum@X=17627424@Y=59192071@U=74@L=510105231@",
+                                          "extId": "510105231",
+                                          "lon": 17.627424,
+                                          "lat": 59.192071,
+                                          "time": "08:26:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje centrum (S\u00f6dert\u00e4lje)@X=17627802@Y=59192062@U=74@L=300109520@",
+                                          "mainMastExtId": "300109520",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje centrum",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje centrum@X=17627721@Y=59192053@U=74@L=400175828@",
+                                          "extId": "400175828",
+                                          "lon": 17.627721,
+                                          "lat": 59.192053,
+                                          "time": "08:27:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje centrum (S\u00f6dert\u00e4lje)@X=17627802@Y=59192062@U=74@L=300109520@",
+                                          "mainMastExtId": "300109520",
+                                          "additional": false
+                                    },
+                                    "Stops": null,
+                                    "idx": "2",
+                                    "name": "",
+                                    "type": "WALK",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "duration": "PT1M",
+                                    "dist": 17,
+                                    "hide": true
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje centrum",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje centrum@X=17627721@Y=59192053@U=74@L=400175828@",
+                                          "extId": "400175828",
+                                          "lon": 17.627721,
+                                          "lat": 59.192053,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:29:00",
+                                          "date": "2022-10-17",
+                                          "track": "F",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje centrum (S\u00f6dert\u00e4lje)@X=17627802@Y=59192062@U=74@L=300109520@",
+                                          "mainMastExtId": "300109520",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "J\u00e4rna station",
+                                          "type": "ST",
+                                          "id": "A=1@O=J\u00e4rna station@X=17567871@Y=59092991@U=74@L=400175527@",
+                                          "extId": "400175527",
+                                          "lon": 17.567871,
+                                          "lat": 59.092991,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "09:01:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=J\u00e4rna (S\u00f6dert\u00e4lje)@X=17567664@Y=59093009@U=74@L=300109542@",
+                                          "mainMastExtId": "300109542",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|66786|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "buss 784",
+                                          "num": "9",
+                                          "line": "784",
+                                          "catOut": "BUS     ",
+                                          "catIn": "BUS",
+                                          "catCode": "3",
+                                          "catOutS": "BUS",
+                                          "catOutL": "BUSS ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "100784"
+                                    },
+                                    "Stops": null,
+                                    "idx": "3",
+                                    "name": "buss 784",
+                                    "number": "9",
+                                    "category": "BUS",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "Norrvr\u00e5"
+                              }
+                        ]
+                  },
+                  "TariffResult": {
+                        "fareSetItem": [
+                              {
+                                    "fareItem": [
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Helt pris",
+                                                "price": 3900,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Helt pris",
+                                                "price": 5400,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Reducerat pris",
+                                                "price": 2600,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Reducerat pris",
+                                                "price": 3600,
+                                                "cur": "SEK"
+                                          }
+                                    ],
+                                    "name": "ONEWAY",
+                                    "desc": "SL"
+                              }
+                        ]
+                  },
+                  "alternative": false,
+                  "valid": true,
+                  "idx": 1,
+                  "tripId": "C-1",
+                  "ctxRecon": "T$A=1@O=Tumba@L=400105191@a=128@$A=1@O=S\u00f6dert\u00e4lje centrum@L=400105234@a=128@$202210170805$202210170824$        $\u00a7W$A=1@O=S\u00f6dert\u00e4lje centrum@L=400105234@a=128@$A=1@O=S\u00f6dert\u00e4lje Centrum@L=510105231@a=128@$202210170825$202210170826$$\u00a7W$A=1@O=S\u00f6dert\u00e4lje Centrum@L=510105231@a=128@$A=1@O=S\u00f6dert\u00e4lje centrum@L=400175828@a=128@$202210170826$202210170827$$\u00a7T$A=1@O=S\u00f6dert\u00e4lje centrum@L=400175828@a=128@$A=1@O=J\u00e4rna station@L=400175527@a=128@$202210170829$202210170901$        $",
+                  "duration": "PT56M",
+                  "return": false,
+                  "checksum": "7F448AE8_4",
+                  "transferCount": 0
+            },
+            {
+                  "ServiceDays": [
+                        {
+                              "planningPeriodBegin": "2022-07-17",
+                              "planningPeriodEnd": "2022-11-29",
+                              "sDaysR": "m\u00e5n - fre",
+                              "sDaysB": "7CF9F3E7CF9F3E7CF9F3E7CF9F3E7CF9F3"
+                        }
+                  ],
+                  "LegList": {
+                        "Leg": [
+                              {
+                                    "Origin": {
+                                          "name": "Tumba",
+                                          "type": "ST",
+                                          "id": "A=1@O=Tumba@X=17836423@Y=59199675@U=74@L=400105191@",
+                                          "extId": "400105191",
+                                          "lon": 17.836423,
+                                          "lat": 59.199675,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:20:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=Tumba (Botkyrka)@X=17836567@Y=59199199@U=74@L=300109524@",
+                                          "mainMastExtId": "300109524",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:32:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|15375|1|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 40",
+                                          "num": "2215",
+                                          "line": "40",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "102040"
+                                    },
+                                    "Stops": null,
+                                    "idx": "0",
+                                    "name": "Pendelt\u00e5g 40",
+                                    "number": "2215",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "S\u00f6dert\u00e4lje centrum"
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "time": "08:33:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje Hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje Hamn@X=17647191@Y=59179171@U=74@L=510105221@",
+                                          "extId": "510105221",
+                                          "lon": 17.647191,
+                                          "lat": 59.179171,
+                                          "time": "08:35:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Stops": null,
+                                    "idx": "1",
+                                    "name": "",
+                                    "type": "WALK",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "duration": "PT2M",
+                                    "dist": 58,
+                                    "hide": true
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje Hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje Hamn@X=17647191@Y=59179171@U=74@L=510105221@",
+                                          "extId": "510105221",
+                                          "lon": 17.647191,
+                                          "lat": 59.179171,
+                                          "time": "08:35:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17648099@Y=59179459@U=74@L=400175139@",
+                                          "extId": "400175139",
+                                          "lon": 17.648099,
+                                          "lat": 59.179459,
+                                          "time": "08:36:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Stops": null,
+                                    "idx": "2",
+                                    "name": "",
+                                    "type": "WALK",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "duration": "PT1M",
+                                    "dist": 61,
+                                    "hide": true
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17648099@Y=59179459@U=74@L=400175139@",
+                                          "extId": "400175139",
+                                          "lon": 17.648099,
+                                          "lat": 59.179459,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:40:00",
+                                          "date": "2022-10-17",
+                                          "track": "B",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "J\u00e4rna station",
+                                          "type": "ST",
+                                          "id": "A=1@O=J\u00e4rna station@X=17568716@Y=59093702@U=74@L=400175811@",
+                                          "extId": "400175811",
+                                          "lon": 17.568716,
+                                          "lat": 59.093702,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "09:10:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=J\u00e4rna (S\u00f6dert\u00e4lje)@X=17567664@Y=59093009@U=74@L=300109542@",
+                                          "mainMastExtId": "300109542",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|67034|1|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "buss 788",
+                                          "num": "7",
+                                          "line": "788",
+                                          "catOut": "BUS     ",
+                                          "catIn": "BUS",
+                                          "catCode": "3",
+                                          "catOutS": "BUS",
+                                          "catOutL": "BUSS ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "100788"
+                                    },
+                                    "Stops": null,
+                                    "idx": "3",
+                                    "name": "buss 788",
+                                    "number": "7",
+                                    "category": "BUS",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "J\u00e4rna station"
+                              }
+                        ]
+                  },
+                  "TariffResult": {
+                        "fareSetItem": [
+                              {
+                                    "fareItem": [
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Helt pris",
+                                                "price": 3900,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Helt pris",
+                                                "price": 5400,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Reducerat pris",
+                                                "price": 2600,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Reducerat pris",
+                                                "price": 3600,
+                                                "cur": "SEK"
+                                          }
+                                    ],
+                                    "name": "ONEWAY",
+                                    "desc": "SL"
+                              }
+                        ]
+                  },
+                  "alternative": false,
+                  "valid": true,
+                  "idx": 2,
+                  "tripId": "C-2",
+                  "ctxRecon": "T$A=1@O=Tumba@L=400105191@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$202210170820$202210170832$        $\u00a7W$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$A=1@O=S\u00f6dert\u00e4lje Hamn@L=510105221@a=128@$202210170833$202210170835$$\u00a7W$A=1@O=S\u00f6dert\u00e4lje Hamn@L=510105221@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400175139@a=128@$202210170835$202210170836$$\u00a7T$A=1@O=S\u00f6dert\u00e4lje hamn@L=400175139@a=128@$A=1@O=J\u00e4rna station@L=400175811@a=128@$202210170840$202210170910$        $",
+                  "duration": "PT50M",
+                  "return": false,
+                  "checksum": "88559C6B_4",
+                  "transferCount": 0
+            },
+            {
+                  "ServiceDays": [
+                        {
+                              "planningPeriodBegin": "2022-07-17",
+                              "planningPeriodEnd": "2022-11-29",
+                              "sDaysR": "varje dag",
+                              "sDaysB": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+                        }
+                  ],
+                  "LegList": {
+                        "Leg": [
+                              {
+                                    "Origin": {
+                                          "name": "Tumba",
+                                          "type": "ST",
+                                          "id": "A=1@O=Tumba@X=17836423@Y=59199675@U=74@L=400105191@",
+                                          "extId": "400105191",
+                                          "lon": 17.836423,
+                                          "lat": 59.199675,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "08:50:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=Tumba (Botkyrka)@X=17836567@Y=59199199@U=74@L=300109524@",
+                                          "mainMastExtId": "300109524",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "09:02:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|15386|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 40",
+                                          "num": "2217",
+                                          "line": "40",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "100040"
+                                    },
+                                    "Stops": null,
+                                    "idx": "0",
+                                    "name": "Pendelt\u00e5g 40",
+                                    "number": "2217",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "S\u00f6dert\u00e4lje centrum"
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "time": "09:03:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646364@Y=59178973@U=74@L=400105226@",
+                                          "extId": "400105226",
+                                          "lon": 17.646364,
+                                          "lat": 59.178973,
+                                          "time": "09:04:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Stops": null,
+                                    "idx": "1",
+                                    "name": "",
+                                    "type": "WALK",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "duration": "PT1M",
+                                    "dist": 22,
+                                    "hide": true
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646364@Y=59178973@U=74@L=400105226@",
+                                          "extId": "400105226",
+                                          "lon": 17.646364,
+                                          "lat": 59.178973,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "09:07:00",
+                                          "date": "2022-10-17",
+                                          "track": "2",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "J\u00e4rna",
+                                          "type": "ST",
+                                          "id": "A=1@O=J\u00e4rna@X=17567160@Y=59093441@U=74@L=400105251@",
+                                          "extId": "400105251",
+                                          "lon": 17.56716,
+                                          "lat": 59.093441,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "09:16:00",
+                                          "date": "2022-10-17",
+                                          "track": "2",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=J\u00e4rna (S\u00f6dert\u00e4lje)@X=17567664@Y=59093009@U=74@L=300109542@",
+                                          "mainMastExtId": "300109542",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|18303|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 48",
+                                          "num": "52017",
+                                          "line": "48",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "102048"
+                                    },
+                                    "Stops": null,
+                                    "idx": "2",
+                                    "name": "Pendelt\u00e5g 48",
+                                    "number": "52017",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "Gnesta"
+                              }
+                        ]
+                  },
+                  "TariffResult": {
+                        "fareSetItem": [
+                              {
+                                    "fareItem": [
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Helt pris",
+                                                "price": 3900,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Helt pris",
+                                                "price": 5400,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Reducerat pris",
+                                                "price": 2600,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Reducerat pris",
+                                                "price": 3600,
+                                                "cur": "SEK"
+                                          }
+                                    ],
+                                    "name": "ONEWAY",
+                                    "desc": "SL"
+                              }
+                        ]
+                  },
+                  "alternative": false,
+                  "valid": true,
+                  "idx": 3,
+                  "tripId": "C-3",
+                  "ctxRecon": "T$A=1@O=Tumba@L=400105191@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$202210170850$202210170902$        $\u00a7W$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105226@a=128@$202210170903$202210170904$$\u00a7T$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105226@a=128@$A=1@O=J\u00e4rna@L=400105251@a=128@$202210170907$202210170916$        $",
+                  "duration": "PT26M",
+                  "return": false,
+                  "checksum": "7C2BACE3_4",
+                  "transferCount": 0
+            },
+            {
+                  "ServiceDays": [
+                        {
+                              "planningPeriodBegin": "2022-07-17",
+                              "planningPeriodEnd": "2022-11-29",
+                              "sDaysR": "varje dag",
+                              "sDaysB": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+                        }
+                  ],
+                  "LegList": {
+                        "Leg": [
+                              {
+                                    "Origin": {
+                                          "name": "Tumba",
+                                          "type": "ST",
+                                          "id": "A=1@O=Tumba@X=17836423@Y=59199675@U=74@L=400105191@",
+                                          "extId": "400105191",
+                                          "lon": 17.836423,
+                                          "lat": 59.199675,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "09:50:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=Tumba (Botkyrka)@X=17836567@Y=59199199@U=74@L=300109524@",
+                                          "mainMastExtId": "300109524",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "10:02:00",
+                                          "date": "2022-10-17",
+                                          "track": "1",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|15393|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 40",
+                                          "num": "2221",
+                                          "line": "40",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "101040"
+                                    },
+                                    "Stops": null,
+                                    "idx": "0",
+                                    "name": "Pendelt\u00e5g 40",
+                                    "number": "2221",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "S\u00f6dert\u00e4lje centrum"
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646176@Y=59179144@U=74@L=400105225@",
+                                          "extId": "400105225",
+                                          "lon": 17.646176,
+                                          "lat": 59.179144,
+                                          "time": "10:03:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646364@Y=59178973@U=74@L=400105226@",
+                                          "extId": "400105226",
+                                          "lon": 17.646364,
+                                          "lat": 59.178973,
+                                          "time": "10:04:00",
+                                          "date": "2022-10-17",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Stops": null,
+                                    "idx": "1",
+                                    "name": "",
+                                    "type": "WALK",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "duration": "PT1M",
+                                    "dist": 22,
+                                    "hide": true
+                              },
+                              {
+                                    "Origin": {
+                                          "name": "S\u00f6dert\u00e4lje hamn",
+                                          "type": "ST",
+                                          "id": "A=1@O=S\u00f6dert\u00e4lje hamn@X=17646364@Y=59178973@U=74@L=400105226@",
+                                          "extId": "400105226",
+                                          "lon": 17.646364,
+                                          "lat": 59.178973,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "10:07:00",
+                                          "date": "2022-10-17",
+                                          "track": "2",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=S\u00f6dert\u00e4lje hamn (S\u00f6dert\u00e4lje)@X=17648054@Y=59179441@U=74@L=300109521@",
+                                          "mainMastExtId": "300109521",
+                                          "additional": false
+                                    },
+                                    "Destination": {
+                                          "name": "J\u00e4rna",
+                                          "type": "ST",
+                                          "id": "A=1@O=J\u00e4rna@X=17567160@Y=59093441@U=74@L=400105251@",
+                                          "extId": "400105251",
+                                          "lon": 17.56716,
+                                          "lat": 59.093441,
+                                          "prognosisType": "PROGNOSED",
+                                          "time": "10:16:00",
+                                          "date": "2022-10-17",
+                                          "track": "2",
+                                          "hasMainMast": true,
+                                          "mainMastId": "A=1@O=J\u00e4rna (S\u00f6dert\u00e4lje)@X=17567664@Y=59093009@U=74@L=300109542@",
+                                          "mainMastExtId": "300109542",
+                                          "additional": false
+                                    },
+                                    "JourneyDetailRef": {
+                                          "ref": "1|18308|0|74|17102022"
+                                    },
+                                    "JourneyStatus": "P",
+                                    "Product": {
+                                          "name": "Pendelt\u00e5g 48",
+                                          "num": "52021",
+                                          "line": "48",
+                                          "catOut": "TRAIN   ",
+                                          "catIn": "TRN",
+                                          "catCode": "0",
+                                          "catOutS": "TRN",
+                                          "catOutL": "PENDELT\u00c5G ",
+                                          "operatorCode": "SL",
+                                          "operator": "Storstockholms Lokaltrafik",
+                                          "admin": "103048"
+                                    },
+                                    "Stops": null,
+                                    "idx": "2",
+                                    "name": "Pendelt\u00e5g 48",
+                                    "number": "52021",
+                                    "category": "TRN",
+                                    "type": "JNY",
+                                    "reachable": true,
+                                    "redirected": false,
+                                    "direction": "Gnesta"
+                              }
+                        ]
+                  },
+                  "TariffResult": {
+                        "fareSetItem": [
+                              {
+                                    "fareItem": [
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Helt pris",
+                                                "price": 3900,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Helt pris",
+                                                "price": 5400,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Reskassa och \u00f6vriga f\u00f6rs\u00e4ljningsst\u00e4llen",
+                                                "desc": "Reducerat pris",
+                                                "price": 2600,
+                                                "cur": "SEK"
+                                          },
+                                          {
+                                                "name": "Kondukt\u00f6r p\u00e5 Sp\u00e5rv\u00e4g City",
+                                                "desc": "Reducerat pris",
+                                                "price": 3600,
+                                                "cur": "SEK"
+                                          }
+                                    ],
+                                    "name": "ONEWAY",
+                                    "desc": "SL"
+                              }
+                        ]
+                  },
+                  "alternative": false,
+                  "valid": true,
+                  "idx": 4,
+                  "tripId": "C-4",
+                  "ctxRecon": "T$A=1@O=Tumba@L=400105191@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$202210170950$202210171002$        $\u00a7W$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105225@a=128@$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105226@a=128@$202210171003$202210171004$$\u00a7T$A=1@O=S\u00f6dert\u00e4lje hamn@L=400105226@a=128@$A=1@O=J\u00e4rna@L=400105251@a=128@$202210171007$202210171016$        $",
+                  "duration": "PT26M",
+                  "return": false,
+                  "checksum": "F468251F_4",
+                  "transferCount": 0
+            }
+      ],
+      "scrB": "1|OB|MT\u00b511\u00b5135830\u00b5135830\u00b5135856\u00b5135856\u00b50\u00b50\u00b54\u00b5135900\u00b5-5\u00b52\u00b50\u00b51\u00b51|PDH\u00b5c36b80a28affd24d61c6456a5df7e9f7",
+      "scrF": "1|OF|MT\u00b511\u00b5135950\u00b5135950\u00b5135976\u00b5135976\u00b50\u00b50\u00b54\u00b5136020\u00b5-1\u00b52\u00b50\u00b51\u00b51|PDH\u00b5c36b80a28affd24d61c6456a5df7e9f7",
+      "serverVersion": "1.4",
+      "dialectVersion": "1.23",
+      "requestId": "1665951844543"
+}
